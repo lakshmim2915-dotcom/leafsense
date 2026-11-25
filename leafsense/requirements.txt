@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+xgboost
+streamlit
+SQLAlchemy
+PyMySQL
+matplotlib
+joblib
+bcrypt
+python-dotenv
